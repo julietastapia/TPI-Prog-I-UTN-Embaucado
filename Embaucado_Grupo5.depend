@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1719492312 source:c:\users\lyj\desktop\embaucado_grupo5\main.cpp
+	<iostream>
+	<wchar.h>
+	"funciones.h"
+	"rlutil.h"
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
+1719492312 c:\users\lyj\desktop\embaucado_grupo5\funciones.h
+
+1718854805 c:\users\lyj\desktop\embaucado_grupo5\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719492312 source:c:\users\lyj\desktop\embaucado_grupo5\funciones.cpp
+	<iostream>
+	<wchar.h>
+	"funciones.h"
+	"rlutil.h"
+
+1719499550 source:c:\users\lyj\desktop\embaucado_grupo5\funcionesjuego.cpp
+	<iostream>
+	<cstdlib>
+	<wchar.h>
+	"funciones.h"
+	"rlutil.h"
+
